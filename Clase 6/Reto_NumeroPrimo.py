@@ -32,6 +32,6 @@ elif z == 10:
   
 #Un número primo es un número natural, mayor que 1, que tiene sólo, dos divisores.
  
-for i in range(1, 100):
+for i in range(1, 20):
     if EsPrimo (i + 1):
         print(i + 1, end=" ")
